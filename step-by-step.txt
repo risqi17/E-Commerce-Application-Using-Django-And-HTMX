@@ -1,0 +1,8 @@
+- Install virtualenv pip install virtualenv
+- Install Environment virtualenv <env_name>
+- activate <env_name>/Scripts/activate
+- Install django pip install django
+- django-admin startproject ecommerce
+- cd ecommerce 
+- python manage.py startapp core
+- Run Project python manage.py runserver
